@@ -1,0 +1,238 @@
+﻿  main.cpp
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(235,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(328,12): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(356,18): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(356,15): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(384,19): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(384,16): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(384,13): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(386,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(386,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(406,19): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(406,16): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(406,13): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(408,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(408,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(428,19): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(428,16): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(428,13): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(430,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(430,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(469,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(473,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(500,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(535,27): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(535,20): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(535,13): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(544,31): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(544,22): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(544,13): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(554,33): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(554,23): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(554,13): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(590,31): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(590,22): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(590,13): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(642,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(689,3): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(694,3): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(701,3): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(731,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(732,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(733,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(734,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(735,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(777,31): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(777,22): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(777,13): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(787,6): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(833,27): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(833,21): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(833,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(838,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(838,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(841,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(841,45): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(850,27): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(850,21): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(850,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(864,45): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(864,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1133,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1133,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1134,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1134,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1135,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1135,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1139,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1139,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1140,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1140,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1141,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1141,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1192,8): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1192,3): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1198,8): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1198,3): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1209,27): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1209,21): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1209,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1213,72): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1213,67): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1213,42): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1216,72): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1216,67): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1216,42): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1219,72): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1219,67): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1219,42): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1222,72): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1222,67): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1222,42): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1225,72): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1225,67): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1225,42): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1482,27): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1482,21): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1482,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1512,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1512,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1515,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1515,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1518,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1518,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1521,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1521,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1524,67): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1524,62): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1524,41): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1683,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1684,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1686,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1687,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1689,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1690,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1692,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1693,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1766,27): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1766,21): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1766,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1782,8): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1782,3): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1787,9): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1787,3): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1791,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1791,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1839,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1840,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1848,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1849,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1898,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1907,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1936,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(1945,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2011,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2011,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2081,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2081,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2123,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2123,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2126,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2126,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2136,27): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2136,21): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2136,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2148,2): error C3861: 'WP_drawServerBox': identifier not found
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2153,45): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2153,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2242,6): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2245,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2248,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2248,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2275,7): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2275,3): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2350,2): error C2061: syntax error: identifier 'glTranslatef'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2350,25): error C2143: syntax error: missing ')' before ';'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2353,2): error C2059: syntax error: 'if'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2355,2): error C2059: syntax error: 'else'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2358,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2358,2): error C2365: 'glVertex2f': redefinition; previous definition was 'function'
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\GL\gl.h(1469,25):
+      see declaration of 'glVertex2f'
+  
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2359,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2359,2): error C2365: 'glVertex2f': redefinition; previous definition was 'function'
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\GL\gl.h(1469,25):
+      see declaration of 'glVertex2f'
+  
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2360,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2360,2): error C2365: 'glVertex2f': redefinition; previous definition was 'function'
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\GL\gl.h(1469,25):
+      see declaration of 'glVertex2f'
+  
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2361,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2361,2): error C2556: 'int glEnd(void)': overloaded function differs only by return type from 'void glEnd(void)'
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\GL\gl.h(1231,25):
+      see declaration of 'glEnd'
+  
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2361,2): error C2371: 'glEnd': redefinition; different basic types
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\GL\gl.h(1231,25):
+      see declaration of 'glEnd'
+  
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2363,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2363,2): error C2556: 'int glPopMatrix(void)': overloaded function differs only by return type from 'void glPopMatrix(void)'
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\GL\gl.h(1362,25):
+      see declaration of 'glPopMatrix'
+  
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2363,2): error C2371: 'glPopMatrix': redefinition; different basic types
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\GL\gl.h(1362,25):
+      see declaration of 'glPopMatrix'
+  
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2364,1): error C2059: syntax error: '}'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2364,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2369,18): error C2143: syntax error: missing ';' before '{'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2369,18): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2393,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2393,2): error C2556: 'int glPopMatrix(void)': overloaded function differs only by return type from 'void glPopMatrix(void)'
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\GL\gl.h(1362,25):
+      see declaration of 'glPopMatrix'
+  
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2394,1): error C2059: syntax error: '}'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2394,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2397,52): error C2143: syntax error: missing ';' before '{'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2397,52): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2697,2): error C2059: syntax error: 'if'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2697,21): error C2143: syntax error: missing ';' before '{'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2697,21): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2718,3): error C2059: syntax error: 'else'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2718,21): error C2143: syntax error: missing ';' before '{'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2718,21): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2724,3): error C2059: syntax error: 'else'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2724,21): error C2143: syntax error: missing ';' before '{'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2724,21): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2730,3): error C2059: syntax error: 'else'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2730,8): error C2143: syntax error: missing ';' before '{'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2730,8): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2737,3): error C2059: syntax error: 'if'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2737,40): error C2143: syntax error: missing ';' before '{'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2737,40): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2744,3): error C2059: syntax error: 'if'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2744,57): error C2143: syntax error: missing ';' before '{'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2744,57): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2751,3): error C2059: syntax error: 'if'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2751,75): error C2143: syntax error: missing ';' before '{'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2751,75): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2758,3): error C2059: syntax error: 'if'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2758,74): error C2143: syntax error: missing ';' before '{'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2758,74): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2767,2): error C2059: syntax error: '}'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2767,2): error C2143: syntax error: missing ';' before '}'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2773,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2773,2): error C2365: 'glutTimerFunc': redefinition; previous definition was 'function'
+      C:\Users\jamil\OneDrive\Desktop\Jamination\packages\nupengl.core.0.1.0.1\build\native\include\GL\freeglut_std.h(464,26):
+      see declaration of 'glutTimerFunc'
+  
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2774,1): error C2059: syntax error: '}'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2774,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2776,48): error C2143: syntax error: missing ';' before '{'
+C:\Users\jamil\OneDrive\Desktop\Jamination\Jamination\main.cpp(2776,48): error C2447: '{': missing function header (old-style formal list?)
